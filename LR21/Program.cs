@@ -28,7 +28,7 @@ class Program
             case '/':
                 if (b == 0)
                 {
-                    Console.WriteLine("Деление на ноль!");
+                    Console.WriteLine("Ураааа");
                     return;
                 }
                 result = a / b;
